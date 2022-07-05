@@ -1,7 +1,7 @@
 //age calculator//<?php 
 // PHP program to calculate age in years
 // Define the date of birth
-$dateOfBirth = '15-03-1987';
+$dateOfBirth = '15-03-1997';
  
 // Create a datetime object using date of birth
 $dob = new DateTime($dateOfBirth);
